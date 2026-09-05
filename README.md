@@ -14,6 +14,7 @@ A hands-on laboratory for learning and mastering Git and GitHub.
 - Learn Wiki
 - Learn GitHub Security
 - Learn repository administration
+- all
 
 ## Progress
 
