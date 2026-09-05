@@ -1,0 +1,20 @@
+{
+  "name": "github-mastery",
+  "version": "1.0.0",
+  "description": "Repository for learning Git, GitHub, and DevOps",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hailuhak/github-mastery-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hailuhak/github-mastery-lab/issues"
+  },
+  "homepage": "https://github.com/hailuhak/github-mastery-lab#readme"
+}
