@@ -31,3 +31,6 @@ A hands-on laboratory for learning and mastering Git and GitHub.
 - [ ] Insights
 - [ ] Releases
 - [ ] Professional GitHub workflow
+## Git Practice
+
+This repository is my personal GitHub mastery laboratory.
