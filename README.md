@@ -34,3 +34,15 @@ A hands-on laboratory for learning and mastering Git and GitHub.
 ## Git Practice
 
 This repository is my personal GitHub mastery laboratory.
+
+## Git Commands
+
+Some important Git commands:
+
+- `git status` — check repository status
+- `git add` — stage changes
+- `git commit` — create a commit
+- `git push` — upload commits
+- `git pull` — download and integrate changes
+- `git branch` — manage branches
+- `git switch` — switch branches
