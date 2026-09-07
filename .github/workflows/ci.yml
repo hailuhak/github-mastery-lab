@@ -6,15 +6,9 @@ on:
       - main
 
 jobs:
-  hello:
+  ci:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Say hello
-        run: echo "Hello from GitHub Actions!"
-
-      - name: Show current directory
-        run: pwd
-
-      - name: List files
-        run: ls -la
+      - name: Checkout repository
+        uses: actions/checkout@v4
