@@ -4,8 +4,9 @@
   "description": "Repository for learning Git, GitHub, and DevOps",
   "type": "module",
   "scripts": {
-    "test": "node --test"
-},
+    "test": "node --test",
+    "lint": "eslint ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hailuhak/github-mastery-lab.git"
@@ -16,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/hailuhak/github-mastery-lab/issues"
   },
-  "homepage": "https://github.com/hailuhak/github-mastery-lab#readme"
+  "homepage": "https://github.com/hailuhak/github-mastery-lab#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.10.0",
+    "globals": "^17.12.0"
+  }
 }
